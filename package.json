@@ -1,8 +1,8 @@
 {
-  "name": "sorting-visualizer",
+  "name": "sortingVisualizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Prajwal-54.github.io/sorting-visualizer",
+  "homepage": "https://Prajwal-54.github.io/sortingVisualizer",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
